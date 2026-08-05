@@ -1,6 +1,6 @@
 # Spring Boot Hibernate Hospital Management System
 
-![Poster](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*bUVgpAByzqRlxT_IwuKREg.png)
+<img width="1500" height="1000" alt="Gemini_Generated_Image_fkqbojfkqbojfkqb" src="https://github.com/user-attachments/assets/46d503db-9c44-4719-b9d8-1e8cde37633b" />
 
 A backend project demonstrating how to integrate **Spring Boot** with **Hibernate** and **Spring Data JPA** for a Hospital Management System. The application follows a layered architecture with Role-Based Access Control (RBAC) and performs CRUD operations with authorization checks.
 
